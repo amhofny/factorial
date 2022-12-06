@@ -15,10 +15,11 @@ Things you may want to cover:
 * no configurations needed
 
 ### Database creation
-* already packed sqllite in the project
+* `rails db:create`
 
 ### Database initialization
-* already initialized
+* `rails db:migrate`
+* `rails db:seed`
 
 ### How to run the test suite
 * rails test
