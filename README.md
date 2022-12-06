@@ -9,7 +9,7 @@ Things you may want to cover:
 * Ruby (2.7.2)
 
 ### System dependencies
-* Bundle install
+* `bundle install`
 
 ### Configuration
 * no configurations needed
